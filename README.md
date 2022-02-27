@@ -2,7 +2,7 @@
 #### Web portfolio to showcase projects I have worked on, Friday, February 25 2022
 #### By **Alvin Kenyagah**
 ## Description
-My programming portfolio to showcase projects I have worked on.
+My programming portfolio to showcase projects I have worked on. https://alvinkenyagah.github.io/WeekoneIP/
 ## Setup/Installation Requirements
 * Browser.
 * An internet connection.
