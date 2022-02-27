@@ -1,0 +1,39 @@
+.head {
+  font-style: italic;
+  text-align: center;
+  color: #272234;
+}
+.alvin {
+  font-size: 0.6cm;
+  color: #638a86;
+}
+
+img {
+  width: 208px;
+  height: 244px;
+  border-radius: 2%;
+}
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+.intro {
+  border: 1px solid#B2B2B2;
+  border-radius: 1%;
+  float: none;
+  line-height: 30px;
+  font-weight: 500;
+  background-color: #ebebec;
+}
+
+.hello {
+  font-size: 0.5cm;
+  float: right;
+}
