@@ -1,4 +1,5 @@
 # Web portfolio
+![ScreenShot](https://i.ibb.co/tbbFqs2/bag.jpg)
 #### Web portfolio to showcase projects I have worked on, Friday, February 25 2022
 #### By **Alvin Kenyagah**
 ## Description
